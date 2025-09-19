@@ -11,9 +11,7 @@
     <h2>This is a Subheading</h2>
 
     <!-- Paragraph -->
-    <p>
-        This is a simple paragraph inside the body of the page.  
-        HTML (HyperText Markup Language) is the standard language for creating webpages.
+    <p>It's a simple try of creating the webpage which will be my first step of developing my skills
     </p>
 
     <!-- Image -->
@@ -21,7 +19,7 @@
 
     <!-- Another Paragraph -->
     <p>
-        The image above is an example placeholder. You can replace the link with your own image URL.
+        Click here to visit
     </p>
 </body>
 </html>
